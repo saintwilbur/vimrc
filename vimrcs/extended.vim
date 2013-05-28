@@ -8,9 +8,9 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => GUI related
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-set background=dark
+"set background=dark
 
-colorscheme peaksea
+"colorscheme peaksea
 
 " Set font according to system
 if has("mac") || has("macunix")

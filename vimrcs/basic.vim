@@ -133,14 +133,14 @@ set foldcolumn=1
 " => Colors and Fonts
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Enable syntax highlighting
-syntax enable 
+"syntax enable 
 
-try
-    colorscheme desert
-catch
-endtry
+"try
+"    colorscheme desert
+"catch
+"endtry
 
-set background=dark
+"set background=dark
 
 " Set extra options when running in GUI mode
 if has("gui_running")
